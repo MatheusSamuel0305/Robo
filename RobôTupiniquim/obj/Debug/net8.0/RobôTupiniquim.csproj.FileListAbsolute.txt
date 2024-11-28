@@ -1,0 +1,14 @@
+C:\Users\mathe\OneDrive\Meu Drive\Estudo programação\C#\RobôTupiniquim\RobôTupiniquim\bin\Debug\net8.0\RobôTupiniquim.exe
+C:\Users\mathe\OneDrive\Meu Drive\Estudo programação\C#\RobôTupiniquim\RobôTupiniquim\bin\Debug\net8.0\RobôTupiniquim.deps.json
+C:\Users\mathe\OneDrive\Meu Drive\Estudo programação\C#\RobôTupiniquim\RobôTupiniquim\bin\Debug\net8.0\RobôTupiniquim.runtimeconfig.json
+C:\Users\mathe\OneDrive\Meu Drive\Estudo programação\C#\RobôTupiniquim\RobôTupiniquim\bin\Debug\net8.0\RobôTupiniquim.dll
+C:\Users\mathe\OneDrive\Meu Drive\Estudo programação\C#\RobôTupiniquim\RobôTupiniquim\bin\Debug\net8.0\RobôTupiniquim.pdb
+C:\Users\mathe\OneDrive\Meu Drive\Estudo programação\C#\RobôTupiniquim\RobôTupiniquim\obj\Debug\net8.0\RobôTupiniquim.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mathe\OneDrive\Meu Drive\Estudo programação\C#\RobôTupiniquim\RobôTupiniquim\obj\Debug\net8.0\RobôTupiniquim.AssemblyInfoInputs.cache
+C:\Users\mathe\OneDrive\Meu Drive\Estudo programação\C#\RobôTupiniquim\RobôTupiniquim\obj\Debug\net8.0\RobôTupiniquim.AssemblyInfo.cs
+C:\Users\mathe\OneDrive\Meu Drive\Estudo programação\C#\RobôTupiniquim\RobôTupiniquim\obj\Debug\net8.0\RobôTupiniquim.csproj.CoreCompileInputs.cache
+C:\Users\mathe\OneDrive\Meu Drive\Estudo programação\C#\RobôTupiniquim\RobôTupiniquim\obj\Debug\net8.0\RobôTupiniquim.dll
+C:\Users\mathe\OneDrive\Meu Drive\Estudo programação\C#\RobôTupiniquim\RobôTupiniquim\obj\Debug\net8.0\refint\RobôTupiniquim.dll
+C:\Users\mathe\OneDrive\Meu Drive\Estudo programação\C#\RobôTupiniquim\RobôTupiniquim\obj\Debug\net8.0\RobôTupiniquim.pdb
+C:\Users\mathe\OneDrive\Meu Drive\Estudo programação\C#\RobôTupiniquim\RobôTupiniquim\obj\Debug\net8.0\RobôTupiniquim.genruntimeconfig.cache
+C:\Users\mathe\OneDrive\Meu Drive\Estudo programação\C#\RobôTupiniquim\RobôTupiniquim\obj\Debug\net8.0\ref\RobôTupiniquim.dll
